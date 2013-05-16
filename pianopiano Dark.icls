@@ -2,7 +2,6 @@
 <scheme name="pianopiano Dark" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -123,92 +122,16 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.BOOLEAN">
-      <value>
-        <option name="FOREGROUND" value="6897bb" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.BRACE">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.BRACKET">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.CLASS_NAME">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.COLON">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.COMMA">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.DOT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
-      <value>
-        <option name="FOREGROUND" value="ac005f" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.EXISTENTIAL">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="a9b7c6" />
         <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.FUNCTION_BINDING">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.HEREDOC_CONTENT">
-      <value>
-        <option name="FOREGROUND" value="b9c979" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.HEREDOC_ID">
-      <value>
-        <option name="FOREGROUND" value="b9c979" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.HEREGEX_CONTENT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.HEREGEX_ID">
-      <value>
-        <option name="FOREGROUND" value="b9c979" />
       </value>
     </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
@@ -217,80 +140,9 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.JAVASCRIPT_ID">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="c38843" />
-      </value>
-    </option>
     <option name="COFFEESCRIPT.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
         <option name="EFFECT_TYPE" value="-1" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.OBJECT_KEY">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.OPERATIONS">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.PARENTHESIS">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.PROTOTYPE">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.RANGE">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.REGULAR_EXPRESSION_CONTENT">
-      <value>
-        <option name="FOREGROUND" value="ac005f" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.REGULAR_EXPRESSION_ID">
-      <value>
-        <option name="FOREGROUND" value="ac005f" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.SEMICOLON">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.SPLAT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.STRING">
-      <value>
-        <option name="FOREGROUND" value="b9c979" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.STRING_LITERAL">
-      <value>
-        <option name="FOREGROUND" value="b9c979" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.THIS">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
@@ -341,7 +193,7 @@
     </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="8ba9c4" />
+        <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
     <option name="CSS.COMMENT">
@@ -351,7 +203,7 @@
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="8ba9c4" />
+        <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
     <option name="CSS.IDENT">
@@ -361,7 +213,7 @@
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="c38843" />
+        <option name="FOREGROUND" value="cc7832" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -372,22 +224,22 @@
     </option>
     <option name="CSS.NUMBER">
       <value>
-        <option name="FOREGROUND" value="8ba9c4" />
+        <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="c38843" />
+        <option name="FOREGROUND" value="c36528" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="8ba9c4" />
+        <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
     <option name="CSS.STRING">
       <value>
-        <option name="FOREGROUND" value="b9c979" />
+        <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
@@ -759,12 +611,12 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="a2768b" />
+        <option name="FOREGROUND" value="c36528" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="b9c979" />
+        <option name="FOREGROUND" value="92c060" />
       </value>
     </option>
     <option name="HTML_CODE">
@@ -774,24 +626,22 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="b9c979" />
+        <option name="FOREGROUND" value="92c060" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="8ba9c4" />
+        <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="c38843" />
+        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="c38843" />
-      </value>
+      <value />
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
@@ -1019,29 +869,9 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
-    <option name="JS.BRACES">
-      <value>
-        <option name="FOREGROUND" value="cccccc" />
-      </value>
-    </option>
-    <option name="JS.BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="cccccc" />
-      </value>
-    </option>
     <option name="JS.COMMA">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
-      </value>
-    </option>
-    <option name="JS.DOC_TAG">
-      <value>
-        <option name="FOREGROUND" value="a34f4c" />
-      </value>
-    </option>
-    <option name="JS.DOT">
-      <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -1052,69 +882,59 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="a34f4c" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="90004f" />
+        <option name="FOREGROUND" value="92c060" />
       </value>
     </option>
     <option name="JS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c38843" />
+        <option name="FOREGROUND" value="c36528" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
-      </value>
-    </option>
-    <option name="JS.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="6897bb" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JS.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="c4ba00" />
       </value>
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="EFFECT_COLOR" value="a9b7c6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.PARENTHS">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JS.REGEXP">
       <value>
-        <option name="FOREGROUND" value="90004f" />
+        <option name="FOREGROUND" value="92c060" />
       </value>
     </option>
     <option name="JS.SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JS.STRING">
       <value>
-        <option name="FOREGROUND" value="b9c979" />
-      </value>
-    </option>
-    <option name="JS.VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="90004f" />
+        <option name="FOREGROUND" value="92c060" />
       </value>
     </option>
     <option name="JSP_ATTRIBUTE_NAME">
